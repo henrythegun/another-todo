@@ -3,7 +3,7 @@ from function import get_todos, write_todos
 import time
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
-
+##
 user_prompt = "Type add, show, edit, complete, or exit: "
 
 
