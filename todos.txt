@@ -1,0 +1,11 @@
+clean
+throw
+again
+again again
+John Smith
+Sen Lakmi
+Sono Octonot
+Solomon Right
+
+make soap
+ok
