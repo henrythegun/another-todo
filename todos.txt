@@ -1,12 +1,10 @@
-clean
-throw
-again
-again again
-John Smith
+try
+again1
 Sen Lakmi
 Sono Octonot
 Solomon Right
 
+999
 make soap
 ok
 master python
